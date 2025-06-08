@@ -133,23 +133,23 @@ project-root/
 
 Beranda             |  Detail Produk
 :-------------------------:|:-------------------------:
-![beranda](readme-assets/Halaman_Beranda_Collaborative_Filtering_dan_Content-Based_Filtering.png)  |  ![detail](readme-assets/Halaman_detail_produk.png)
+![beranda](../readme-assets/Halaman_Beranda_Collaborative_Filtering_dan_Content-Based_Filtering.png)  |  ![detail](../readme-assets/Halaman_detail_produk.png)
 
 Halaman Keranjang             |  Halaman Checkout
 :-------------------------:|:-------------------------:
-![keranjang](readme-assets/Halaman_Keranjang.png)  |  ![checkout](readme-assets/Halaman_Checkout.png)
+![keranjang](../readme-assets/Halaman_Keranjang.png)  |  ![checkout](../readme-assets/Halaman_Checkout.png)
 
 Riwayat Transaksi             |  Dashboard (Admin)
 :-------------------------:|:-------------------------:
-![transaksi](readme-assets/Halaman_Transaksi.png)  |  ![dashboard](readme-assets/Halaman_Admin_dashboard.png)
+![transaksi](../readme-assets/Halaman_Transaksi.png)  |  ![dashboard](../readme-assets/Halaman_Admin_dashboard.png)
 
 Produk (Admin)             |  Transaksi (Admin)
 :-------------------------:|:-------------------------:
-![Produk](readme-assets/Halaman_admin_Data_produk.png)  |  ![Transaksi](readme-assets/Halaman_admin_data_transaksi.png)
+![Produk](../readme-assets/Halaman_admin_Data_produk.png)  |  ![Transaksi](../readme-assets/Halaman_admin_data_transaksi.png)
 
 Data Pelanggan (Admin)
 ---
-![data pelanggan](readme-assets/Halaman_admin_data_pelanggan.png) 
+![data pelanggan](../readme-assets/Halaman_admin_data_pelanggan.png) 
 
 ## Kontribusi Proyek
 
